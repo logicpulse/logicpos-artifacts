@@ -2,5 +2,5 @@
 <item>
   <version>1.5.2.1</version>
   <url>https://box.track.pt/files/latest/logicpos_1.5.zip</url>
-  <mandatory>false</mandatory>
+  <mandatory>true</mandatory>
 </item>
